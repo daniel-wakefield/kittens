@@ -1,0 +1,27 @@
+exit
+help
+tasks
+compile
+settings
+scalaSource
+compile
+run
+console
+reload
+test
+~test
+hely testOnly
+help testOnly
+testOnly LogicSpec
+setting-
+settings
+scalaSource
+compile
+run
+~test
+testForkedParallel help
+help testForkedParallel
+testOnly LogicSpec
+show gitHeadCommitSha
+clean
+show gitHeadCommitSha
